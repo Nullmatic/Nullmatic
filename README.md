@@ -26,4 +26,4 @@
 
 <hr>
 
-<h2 align="center">Congrats on reaching the bottom</h2>
+<h2 align="center">Congrats on reaching the bottom :)</h2>
