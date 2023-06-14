@@ -28,7 +28,7 @@
 <h2 align="center">I'm currently learning</h2>
 <h4 align="center">Refer to <i>Stuff I like to use</i></h4>
 
-<h2 align="center">Projects I think you should check out</h2>
+<h2 align="center">Projects you should check out</h2>
 
 <div align="center">
     <a href="https://github.com/gluon-framework/gluon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gluon-framework&repo=gluon"></a>
