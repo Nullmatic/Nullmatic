@@ -18,7 +18,7 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,django,nginx,linux,gitlab,git,godot,idea,mongodb,ts">
+        <img src="https://skillicons.dev/icons?i=c,django,nginx,linux,gitlab,git,godot,idea,mongodb,ts,rust">
     </a>
 </div>
 
