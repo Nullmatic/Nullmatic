@@ -10,8 +10,7 @@
 
 <h2 align="center">What am I currently working on?</h2>
 <div align="center">
-    <h4>NAVTS (Not Another VTuber Tracking Software) | Tracking software made for vtubing</h4>
-    <h4>Frostbit | Personal site for video archive, live streaming, and audio archive</h4>
+    <h4>Nothing at the moment</h4>
 </div>
 
 <h2 align="center">Projects that I have helped</h2>
