@@ -30,9 +30,6 @@
 <h2 align="center">Projects you should check out</h2>
 
 <div align="center">
-    <a href="https://github.com/gluon-framework/gluon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gluon-framework&repo=gluon"></a>
-    <a href="https://github.com/hyprwm/Hyprland"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hyprwm&repo=hyprland"></a>
-    <a href="https://github.com/hyprwm/Hypr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hyprwm&repo=hypr"></a>
     <a href="https://github.com/SpacingBat3/WebCord"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SpacingBat3&repo=webcord"></a>
     <a href="https://github.com/revoltchat/revolt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=revoltchat&repo=revolt"></a>
 </div>
